@@ -10,6 +10,7 @@ import spock.lang.Specification
 class NoteControllerSpec extends Specification {
 
     def setup() {
+		//blah blah
     }
 
     def cleanup() {
